@@ -8,7 +8,6 @@
 </head>
 <body>
     <?php include 'view/navbar.php';?>
-
     
 </body>
 </html>
